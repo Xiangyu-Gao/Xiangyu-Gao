@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, some interesting codebase of my projects can be found here!
 
 <!--
 **Xiangyu-Gao/Xiangyu-Gao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
