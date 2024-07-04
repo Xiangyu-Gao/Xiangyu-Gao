@@ -1,4 +1,4 @@
-### Hi there 👋, some interesting codebase of my projects can be found here ✨!
+### Hi there 👋, some interesting codebase of my projects can be found under this page ✨
 
 
 
